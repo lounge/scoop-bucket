@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/lounge/tuify/releases/download/v0.1.0/tuify_windows_amd64.zip",
-      "hash": "622acea21c05babdd4752adca71bc3073bdaf63c6b150c19250ae5a329d84bf7"
+      "hash": "355313ea8a7a9e4a2b5d574085d5829f427325881afaf605f51c8b4f83e9c185"
     }
   },
   "bin": "tuify.exe",
