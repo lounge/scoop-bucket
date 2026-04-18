@@ -1,12 +1,12 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A Spotify TUI with visualizers and lyrics",
   "homepage": "https://github.com/lounge/tuify",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/lounge/tuify/releases/download/v0.2.0/tuify_windows_amd64.zip",
-      "hash": "65aff3af4fbe2060e43d108880f87a77f6963d1b850c9444fb5d7e20df5d065c"
+      "url": "https://github.com/lounge/tuify/releases/download/v0.3.0/tuify_windows_amd64.zip",
+      "hash": "0fc4fe3a639fffcd665c733d3723ccad12819bcf9b936c491bb4160704d9a1d6"
     }
   },
   "bin": "tuify.exe",
